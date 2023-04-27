@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0gY21ZLj9gtvJ4BWvYO+cC5zO9As3N8CuyP0zfMY8nQ=",
+  "Source": "TelegramEarningBot.Api",
+  "BasePath": "_content/TelegramEarningBot.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
